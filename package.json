@@ -1,0 +1,16 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node teste.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "collect": "^0.3.5",
+    "deep-object-diff": "^1.1.7"
+  }
+}
